@@ -8,6 +8,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">SUCCESSFULLY DEPLOYED AUTOMATED BUILD APPLICATION</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">INTEGRATED NEXUS WITH JENKINS</h1>
 	
 	
 	
